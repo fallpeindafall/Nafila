@@ -1,0 +1,7 @@
+{
+  "name": "nafila",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
